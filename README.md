@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Okuhle12-prog
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning nothing yet
+- 🌱 I’m currently learning Software Engineering at alx
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me call on 0848852268
 
